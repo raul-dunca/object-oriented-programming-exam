@@ -1,0 +1,7 @@
+F;alpha;421;421;421
+22;beta;2;2;2
+A;beta;2;2;2
+M;omega;2;2;2
+R;omega;2;2;120
+G;beta;12;12;12
+HH;alpha;241;421;421
